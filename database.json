@@ -1,0 +1,204 @@
+{
+  "forms": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "formConfig": {
+        "headline": "",
+        "subHeadline": "",
+        "isShowHeadline": false,
+        "renderFormTag": false,
+        "formActionURL": "",
+        "formMethod": "POST"
+      },
+      "sections": {
+        "section-0350387c-2bce-4c73-b950-72df50c6b3c1": {
+          "uniqueId": "section-0350387c-2bce-4c73-b950-72df50c6b3c1",
+          "headline": "User Form",
+          "headlineAdditionalClass": "Test",
+          "subHeadline": "This is the sub-headline of the new section",
+          "subHeadlineAdditionalClass": "",
+          "isShowHeadline": true,
+          "sortOrder": 1,
+          "type": "normal",
+          "rows": [],
+          "controls": [
+            "control-ed42dba0-48d3-43a8-968c-7f631e3e2d2a",
+            "control-ac694d2b-8cb4-4334-a363-3ac0d0321cb9",
+            "control-a6de5a88-c685-4223-b0e6-84b48227392a"
+          ]
+        },
+        "section-3b7077e0-9843-4743-b007-a85153ed0dea": {
+          "uniqueId": "section-3b7077e0-9843-4743-b007-a85153ed0dea",
+          "headline": "Another form",
+          "headlineAdditionalClass": "",
+          "subHeadline": "This is the sub-headline of the new section",
+          "subHeadlineAdditionalClass": "",
+          "isShowHeadline": true,
+          "sortOrder": 2,
+          "type": "normal",
+          "rows": [],
+          "controls": [
+            "control-73970aa5-40a0-417f-9e1e-75846f1f329d",
+            "control-d8edc594-2e09-4509-ac7c-ea0e7d89bc3b",
+            "control-e8069e8d-c5fe-4fd4-aaa8-ba611b6d49f8"
+          ]
+        }
+      },
+      "rows": {},
+      "controls": {
+        "control-ed42dba0-48d3-43a8-968c-7f631e3e2d2a": {
+          "uniqueId": "control-ed42dba0-48d3-43a8-968c-7f631e3e2d2a",
+          "type": "input",
+          "name": "",
+          "label": "Input Field",
+          "subLabel": "",
+          "isShowLabel": true,
+          "placeholderText": "",
+          "containerClass": "col-md-4",
+          "additionalContainerClass": "",
+          "additionalFieldClass": "",
+          "additionalLabelClass": "",
+          "defaultValue": "",
+          "validations": []
+        },
+        "control-ac694d2b-8cb4-4334-a363-3ac0d0321cb9": {
+          "uniqueId": "control-ac694d2b-8cb4-4334-a363-3ac0d0321cb9",
+          "type": "input",
+          "name": "",
+          "label": "Input Field",
+          "subLabel": "",
+          "isShowLabel": true,
+          "placeholderText": "",
+          "containerClass": "col-md-4",
+          "additionalContainerClass": "",
+          "additionalFieldClass": "",
+          "additionalLabelClass": "",
+          "defaultValue": "",
+          "validations": []
+        },
+        "control-a6de5a88-c685-4223-b0e6-84b48227392a": {
+          "uniqueId": "control-a6de5a88-c685-4223-b0e6-84b48227392a",
+          "type": "number",
+          "name": "",
+          "label": "Number Input Field",
+          "subLabel": "",
+          "isShowLabel": true,
+          "placeholderText": "",
+          "containerClass": "col-md-4",
+          "additionalContainerClass": "",
+          "additionalFieldClass": "",
+          "additionalLabelClass": "",
+          "defaultValue": "",
+          "validations": [],
+          "isReal": false,
+          "decimalPlace": 1
+        },
+        "control-73970aa5-40a0-417f-9e1e-75846f1f329d": {
+          "uniqueId": "control-73970aa5-40a0-417f-9e1e-75846f1f329d",
+          "type": "input",
+          "name": "",
+          "label": "Input Field",
+          "subLabel": "",
+          "isShowLabel": true,
+          "placeholderText": "",
+          "containerClass": "col-md-4",
+          "additionalContainerClass": "",
+          "additionalFieldClass": "",
+          "additionalLabelClass": "",
+          "defaultValue": "",
+          "validations": []
+        },
+        "control-d8edc594-2e09-4509-ac7c-ea0e7d89bc3b": {
+          "uniqueId": "control-d8edc594-2e09-4509-ac7c-ea0e7d89bc3b",
+          "type": "number",
+          "name": "",
+          "label": "Number Input Field",
+          "subLabel": "",
+          "isShowLabel": true,
+          "placeholderText": "",
+          "containerClass": "col-md-4",
+          "additionalContainerClass": "",
+          "additionalFieldClass": "",
+          "additionalLabelClass": "",
+          "defaultValue": "",
+          "validations": [],
+          "isReal": false,
+          "decimalPlace": 1
+        },
+        "control-e8069e8d-c5fe-4fd4-aaa8-ba611b6d49f8": {
+          "uniqueId": "control-e8069e8d-c5fe-4fd4-aaa8-ba611b6d49f8",
+          "type": "text",
+          "name": "",
+          "label": "Text Field",
+          "subLabel": "",
+          "isShowLabel": true,
+          "placeholderText": "",
+          "containerClass": "col-md-4",
+          "additionalContainerClass": "",
+          "additionalFieldClass": "",
+          "additionalLabelClass": "",
+          "defaultValue": "",
+          "validations": [],
+          "rows": 3
+        }
+      },
+      "id": 3
+    },
+    {
+      "formConfig": {
+        "headline": "",
+        "subHeadline": "",
+        "isShowHeadline": false,
+        "renderFormTag": false,
+        "formActionURL": "",
+        "formMethod": "POST"
+      },
+      "sections": {
+        "section-4129b6e5-e1bb-4664-b08c-f93aa8f4905a": {
+          "uniqueId": "section-4129b6e5-e1bb-4664-b08c-f93aa8f4905a",
+          "headline": "New Section",
+          "headlineAdditionalClass": "",
+          "subHeadline": "This is the sub-headline of the new section",
+          "subHeadlineAdditionalClass": "",
+          "isShowHeadline": true,
+          "sortOrder": 1,
+          "type": "normal",
+          "rows": [],
+          "controls": [
+            "control-6a9c6132-2ff0-4dbb-95f1-2f8912242b78"
+          ]
+        }
+      },
+      "rows": {},
+      "controls": {
+        "control-6a9c6132-2ff0-4dbb-95f1-2f8912242b78": {
+          "uniqueId": "control-6a9c6132-2ff0-4dbb-95f1-2f8912242b78",
+          "type": "input",
+          "name": "firstname",
+          "label": "Input Field",
+          "subLabel": "",
+          "isShowLabel": true,
+          "placeholderText": "",
+          "containerClass": "col-md-4",
+          "additionalContainerClass": "",
+          "additionalFieldClass": "",
+          "additionalLabelClass": "",
+          "defaultValue": "",
+          "validations": [
+            {
+              "ruleType": "required",
+              "errorMessage": "This field is required",
+              "additionalValue": ""
+            }
+          ]
+        }
+      },
+      "id": 4
+    }
+  ]
+}
