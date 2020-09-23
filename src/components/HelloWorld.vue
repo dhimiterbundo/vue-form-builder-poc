@@ -2,6 +2,10 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>This is a form builder Demo </h2>
+  <div>
+    This demo uses <a target="_blank" href="https://github.com/typicode/json-server">JSON-Server</a> as a mock server.<br>
+
+  </div>
   </div>
 
 </template>
