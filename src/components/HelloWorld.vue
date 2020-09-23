@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>This is a form builder Demo </h2>
   <div>
+    Main package  <a target="_blank" href="https://github.com/sethsandaru/vue-form-builder"><strong>https://github.com/sethsandaru/vue-form-builder</strong></a><br>
     This demo uses <a target="_blank" href="https://github.com/typicode/json-server">JSON-Server</a> as a mock server.<br>
     <hr>
 <strong>Dependencies</strong> of the Vue Form Builder, from the version 2.0.0 and above. Here is the list:<br>
